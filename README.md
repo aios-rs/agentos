@@ -6,6 +6,11 @@
 本项目仅提供各平台的二进制运行包以及项目涉及到的docker镜像列表。GUI前端默认配置的后端为本项目公共服务，如需本地部署或者企业部署，请联系作者购买licence。
 私有部署仅提供安装包，不提供源码。
 
+## 前端项目列表
+
+1. https://github.com/lijingrs/Mozhi (基于MakePad)
+2. https://github.com/lijingrs/AgentPilot (基于React)
+
 ## Not open-contribution
 AgentOS is closed to contributions (unless a maintainer permits it, which is extremely rare).
 
